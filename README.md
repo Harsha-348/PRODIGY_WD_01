@@ -18,9 +18,10 @@ The task was to create a **Responsive Landing Page** with an interactive navigat
 - CSS3
 - JavaScript (Vanilla JS)
 
-## 📸 Screenshot (Optional)
+## 📸 Screenshot
 
-> You can take a screenshot of your final landing page and insert here:
-<img width="1440" alt="Screenshot 2025-06-04 at 1 16 55 AM" src="https://github.com/user-attachments/assets/b1442dc6-e6c0-46ee-b48d-0c07c73eafe7" />
+![Uploading Screenshot 2025-06-04 at 1.28.30 AM.png…]()
+
+
 
 
