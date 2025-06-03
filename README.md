@@ -20,7 +20,8 @@ The task was to create a **Responsive Landing Page** with an interactive navigat
 
 ## 📸 Screenshot
 
-![Uploading Screenshot 2025-06-04 at 1.28.30 AM.png…]()
+<img width="1220" alt="Screenshot 2025-06-04 at 1 29 35 AM" src="https://github.com/user-attachments/assets/3b2656fb-53f1-4f5b-adc2-04c417013768" />
+
 
 
 
